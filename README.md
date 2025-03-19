@@ -1,4 +1,5 @@
-![Dashboard Screenshot](Screenshot 2025-03-19 124902.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 # 🚀 AI Job Market Dashboard
 
 An interactive AI-powered dashboard built with **Python, LangChain, Anthropic Claude AI, and Streamlit** to scrape and summarize recent AI job postings from LinkedIn.
